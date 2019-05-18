@@ -1,0 +1,115 @@
+header{
+    font-family: hanken grotesk;
+    font-size: 50px;
+    color: #DDBEA8;
+}
+
+body{
+    background-color: #F3DFC1;
+}
+
+.nav{
+    position: absolute;
+    top: 0;
+    
+}
+
+ul,li{
+    list-style: none;
+    display: inline-block;
+    font-family: hanken grotesk;
+    margin-right: 0;
+    
+}
+
+li{
+    border: 1px solid #C0C5C1;
+    padding: 10px;
+    margin: 10px;
+    
+    
+}
+
+ul{
+    list-style: none;
+    margin-left: 1000px; 
+}
+
+a{
+    color: #7D8491;
+}
+
+hr{
+    border: none;
+    
+}
+
+.top{
+    height: 6px;
+    background-color: #C0C5C1;
+}
+
+.bottom{
+    height: 3px;
+    background-color: #7D8491;
+}
+
+h1{
+    font-family: hanken grotesk;
+    color: #BBBE64;
+}
+
+div{
+    padding: 0px;
+}
+
+.col-1{
+    width: 25%;
+    float: left;
+    text-align: justify;
+    padding: 10px;
+}
+
+.col-2{
+    width: 40%;
+    float: right;
+    text-align: justify;
+    padding: 10px;
+}
+
+.col-3{
+    width: 60%;
+    padding: 10px;
+    text-align: justify;
+    float: r
+}
+
+.col-4{
+    width:40%;
+    padding: 10px;
+    text-align: justify;
+}
+
+p{
+    font-family: hanken grotesk;
+    color: #7D8491;
+}
+
+.green{
+    height: 200px;
+    width: 300px;
+    padding: 10px;
+    float: left;
+}
+
+.row{
+    
+}
+
+footer{
+}
+
+#footer{
+    position: relative;
+    clear: both;
+}

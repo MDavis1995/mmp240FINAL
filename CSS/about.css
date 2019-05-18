@@ -1,0 +1,181 @@
+header{
+    font-family: hanken grotesk;
+    font-size: 50px;
+    color: #FDFDFF;
+}
+
+body{
+    background-color: #98C1D9;
+}
+
+.nav{
+    position: absolute;
+    top: 0;
+    
+}
+
+ul,li{
+    list-style: none;
+    display: inline-block;
+    font-family: hanken grotesk;
+    margin-right: 0;
+    
+}
+
+li{
+    border: 1px solid #D1462F;
+    padding: 10px;
+    margin: 10px;
+    
+    
+}
+
+ul{
+    list-style: none;
+    margin-left: 1000px; 
+}
+
+a{
+    color: #573D1C;
+}
+
+hr{
+    border: none;
+    
+}
+
+.top{
+    height: 6px;
+    background-color: #D1462F;
+}
+
+.bottom{
+    height: 3px;
+    background-color: #573D1C;
+}
+
+h1{
+    font-family: hanken grotesk;
+    color: #4C5B5C;
+}
+
+p{
+    font-family: hanken grotesk;
+    color: #573D1C;
+}
+
+.row{
+    
+}
+
+.intro{
+    width: 20%;
+    text-align: justify;
+    float: left;
+    padding: 10px;
+    height: auto;
+}
+
+.col-1{
+    width: 24.5%;
+    text-align: justify;
+    float: left;
+    padding: 10px;
+    height: auto;
+}
+
+footer{
+    position: relative;
+    clear: both;
+}
+
+#deathgrips{
+    border: 10px double #D1462F;
+}
+
+#rih{
+    border: 10px double #D1462F;
+}
+
+#father{
+    border: 10px double #D1462F;
+}
+
+.images{
+    margin: 1px;
+}
+
+#tame{
+    border: 10px double #D1462F;
+}
+
+.col-2{
+    float: right;
+    padding: 10px;
+    text-align: justify;
+    width: 50%;
+    height: auto;
+}
+
+h2{
+    font-family: hanken grotesk;
+    color: #FDFDFF;
+}
+
+a{
+    font-family: hanken grotesk; 
+}
+
+.list-1{
+    line-height: 30px;
+    width: 50%;
+}
+
+.list-2{
+    line-height: 30px;
+    width: 60%;
+    float: right;
+}
+
+.list-3{
+    line-height: 30px;
+}
+
+.col-3{
+    width: 30%;
+    text-align: justify;
+    padding: 10px;
+    height: auto;
+}
+
+.rupaul{
+    font-family: hanken grotesk;
+    width: 100%;
+    text-align: left;
+}
+
+#rp{
+    margin-left: 6px;
+}
+
+.bm{
+    width: 100%;
+    text-align: left;
+}
+
+#bm{
+    margin-left: 40px;
+}
+
+.tz{
+    width: 100%;
+    text-align: left;
+}
+
+#tz{
+    margin-left: 15px;
+}
+
+iframe{
+    padding: 5px;
+}

@@ -1,0 +1,117 @@
+header{
+    font-family: hanken grotesk;
+    font-size: 50px;
+    color: #4A4E69;
+}
+
+body{
+    background-color: #F2E9E4;
+}
+
+.nav{
+    position: absolute;
+    top: 0;
+    
+}
+
+ul,li{
+    list-style: none;
+    display: inline-block;
+    font-family: hanken grotesk;
+    margin-right: 0;
+    
+}
+
+li{
+    border: 1px solid #C9ADA7;
+    padding: 10px;
+    margin: 10px;
+    
+    
+}
+
+ul{
+    list-style: none;
+    margin-left: 1000px; 
+}
+
+a{
+    color: #9A8C98;
+}
+
+hr{
+    border: none;
+    
+}
+
+.top{
+    height: 6px;
+    background-color: #C9ADA7;
+}
+
+.bottom{
+    height: 3px;
+    background-color: #9A8C98;
+}
+
+h1{
+    font-family: hanken grotesk;
+    color: #433E4B;
+}
+
+p{
+    font-family: hanken grotesk;
+    color: #9A8C98;
+}
+
+.col-1{
+    width: 30%;
+    text-align: justify;
+    float: left;
+    padding: 10px;
+    
+}
+
+.h1-1{
+    text-align: justify;
+}
+
+.h1-2{
+    text-align: justify;
+}
+
+.col-2{
+    width: 60%;
+    float: left;
+    padding: 10px;
+    text-align: justify;
+}
+
+.col-3{
+    text-align: justify;
+}
+
+footer{
+    position: relative;
+    clear: both;
+}
+
+#colors{
+    padding: 10px;
+}
+
+#beach{
+    padding: 10px;
+}
+
+.col-4{
+    width: 53%;
+    text-align: justify;
+    padding: 10px;
+}
+
+.col-5{
+    width: 90%;
+    text-align: right;
+    padding: 10px;
+}
